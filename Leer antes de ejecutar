@@ -1,0 +1,14 @@
+Instrucciones de ejecucion en orange
+
+-Descomprimir los dataset
+
+1- Cargar el dataset creditcard en el archivo file del orange
+
+2- cargar el dataset fraud-test en el archivo file(1) del orange 
+
+3- dejar cargar la red neuronal y las pruebas 
+
+4- ver los resultados en la matrix de confunsion, 
+   las predicciones y en el arbol
+
+
